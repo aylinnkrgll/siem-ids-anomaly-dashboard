@@ -34,3 +34,16 @@ Only a small sample CSV file is provided for testing the dashboard.
 
 ```bash
 pip install -r requirements.txt
+
+````markdown
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+streamlit run app.py
+```
